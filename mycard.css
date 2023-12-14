@@ -1,0 +1,27 @@
+body{
+    margin: 20px;
+    background-color: bisque;
+}
+.card{
+    border: 2px groove rgb(134, 225, 255);
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 150px;
+    background: rgb(122, 222, 255);
+    border-bottom: 20px solid blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img{
+    width: 150px;
+    
+}
+.textd{
+    margin-left: 20px;
+    margin-top: 0;
+    border: 1px solid rgb(255, 144, 162);
+    text-align: center;
+    
+}
